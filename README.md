@@ -2,11 +2,11 @@
 
 Studying civil engineering and AI.
 
-## Projects as of 12/25
+Currently (at least somewhat actively now) working on
 
 Reading about / implementing diffusion models with weather data
 
-Software projects
+## Software projects
 
 Interface to help patients with cerebral palsy / speech impediments and their caregivers. Implemented LSTM models via PyTorch. Babson Hackathon 2025.
 
