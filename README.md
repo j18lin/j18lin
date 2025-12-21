@@ -1,8 +1,8 @@
-## Personal stuff about me until I get a website
+Personal stuff about me until I get a website
 
 Studying civil engineering and AI.
 
-# Currently (12/25):
+## What am I doing right now? (12/25):
 
 Reading about / implementing diffusion models with weather data
 
