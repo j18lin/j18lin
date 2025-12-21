@@ -2,7 +2,8 @@
 
 Studying civil engineering and AI.
 
-Projects as of 12/25
+## Projects as of 12/25
+
 Reading about / implementing diffusion models with weather data
 
 Software projects
@@ -23,7 +24,7 @@ Various ArcGIS maps including a detailed one about steel key stakeholders
 
 
 
-Hardware projects
+## Hardware projects
 
 Arduino robot which took commands and moved
 
