@@ -6,15 +6,27 @@ Projects as of 12/25
 Reading about / implementing diffusion models with weather data
 
 Software projects
+
 Interface to help patients with cerebral palsy / speech impediments and their caregivers. Implemented LSTM models via PyTorch. Babson Hackathon 2025.
+
 A web app as part of a project I did on transity accessibility. Congressional App Winner of NY-06 (https://www.congressionalappchallenge.us/24-ny06/).
+
 Implemented some Bayesian Networks as part of research I did with the SCIIS lab (https://sciis.njit.edu/team.html) as well as independent research. I implemented code written by my supervisor for various use cases, the code is on my GitHub.
+
 Kolmogorov-Arnold Network (via PyKAN which is based on PyTorch) implementation for urban heating data.
+
 Web scraper for information about steel projects in online trade magazines
+
 Various ArcGIS maps including a detailed one about steel key stakeholders
 
+
+
+
+
 Hardware projects
+
 Arduino robot which took commands and moved
+
 Mounting system for a new lap timer system for FSAE/Motorsports car
 
 <!--
