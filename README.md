@@ -20,6 +20,8 @@ Web scraper for information about steel projects in online trade magazines
 
 Various ArcGIS maps including a detailed one about steel key stakeholders
 
+Read some of my repos!
+
 
 
 
