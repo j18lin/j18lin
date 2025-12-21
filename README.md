@@ -2,7 +2,7 @@
 
 Studying civil engineering and AI.
 
-Currently (at least somewhat actively now) working on
+# Currently (12/25):
 
 Reading about / implementing diffusion models with weather data
 
