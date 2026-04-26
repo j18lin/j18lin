@@ -2,6 +2,7 @@ Personal stuff about me until my website is fully finished
 
 Studying:
 Aerospace engineering (at least its not brain surgery); concentration in Autonomous Systems
+
 Artifical Intelligence
 
 Software languages include Python and Java
