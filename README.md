@@ -1,7 +1,11 @@
-Personal stuff about me until I get a website
+Personal stuff about me until my website is fully finished
 
-Studying civil engineering and AI.
+Studying:
+Aerospace engineering (at least its not brain surgery); concentration in Autonomous Systems
+Artifical Intelligence
 
+Software languages include Python and Java
+Hardware skills include digital fab, manual fab (lathe, etc), some welding, some electronics, CAD
 ## What am I doing right now? (12/25):
 
 Reading about / implementing diffusion models with weather data
@@ -12,7 +16,7 @@ Interface to help patients with cerebral palsy / speech impediments and their ca
 
 A web app as part of a project I did on transity accessibility. Congressional App Winner of NY-06 (https://www.congressionalappchallenge.us/24-ny06/).
 
-Implemented some Bayesian Networks as part of research I did with the SCIIS lab (https://sciis.njit.edu/team.html) as well as independent research. I implemented code written by my supervisor for various use cases, the code is on my GitHub.
+Implemented some Bayesian Networks as part of research I did with the SCIIS lab (https://sciis.njit.edu/team.html) as well as independent research. I implemented code written by my supervisor for various use cases.
 
 Kolmogorov-Arnold Network (via PyKAN which is based on PyTorch) implementation for urban heating data.
 
@@ -28,7 +32,9 @@ Read some of my repos!
 
 ## Hardware projects
 
-Arduino robot which took commands and moved
+Autonomous/CV based robot (3rd at class wide competition)
+
+Other Arduino robot which took commands and moved
 
 Mounting system for a new lap timer system for FSAE/Motorsports car
 
